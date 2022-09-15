@@ -6,3 +6,5 @@
 
 This is a new file to demonstrate markdown. This is **bold**!
 
+This is a list
+-bullet one
